@@ -1,4 +1,4 @@
-# Evelon fork from ByteMcNetzwerk
+# Evelon fork from ByteMCNetzwerk
 
 ## Repository:
 https://jitpack.io/#FlxwDNS/evelon
